@@ -9,8 +9,4 @@ class Dog
  end
 
 
- def self.alll
-   @@all.each do |item|
-     puts item.name
-   end
 end
