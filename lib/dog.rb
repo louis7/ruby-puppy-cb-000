@@ -9,7 +9,7 @@ class Dog
  end
 
 
- def self.all?
+ def self.all
    @@all.each do |item|
      print item.name
    end
