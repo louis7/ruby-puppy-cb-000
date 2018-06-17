@@ -8,9 +8,6 @@ class Dog
     @@all<<self
  end
 
- def self.all?
-   @@all.each do |item|
-     print item
-   end
+ 
    
 end
